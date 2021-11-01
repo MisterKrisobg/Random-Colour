@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+button {
+    background-color:rgb(233, 235, 214);
+    border: 3px slategray outset;
+}
+button:hover {
+    background-color: rgb(197, 199, 184);
+    transition: background-color 100ms ease-out;
+}
