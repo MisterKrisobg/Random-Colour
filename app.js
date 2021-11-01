@@ -34,5 +34,3 @@ let randCol = () => {
     }
     return [newCol, whiteNeeded]
 }
-
-console.log(randCol())
